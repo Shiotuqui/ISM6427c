@@ -1,10 +1,10 @@
 # ISM6427c — Boca Weather
 
-A responsive weather app powered by the free [Open-Meteo](https://open-meteo.com/) API (no key, account, or payment needed). Built for Dr. Lee, it defaults to **Florida Atlantic University, Boca Raton, FL**.
+A responsive weather app powered by the free [Open-Meteo](https://open-meteo.com/) API (no key, account, or payment needed). Built for Senhor Shush, it defaults to **Florida Atlantic University, Boca Raton, FL**.
 
 ## Features
 - Live current conditions, next-24-hour and 7-day forecasts (auto-refresh every 10 minutes)
-- Personalized time-of-day greeting for Dr. Lee
+- Personalized time-of-day greeting for Senhor Shush
 - Light, Dark, and System themes (choice is remembered)
 - City search (Open-Meteo Geocoding), "My location", and a one-click return to Boca
 - °F / °C toggle

@@ -8,7 +8,7 @@
     latitude: 26.3728,
     longitude: -80.1034,
   };
-  const USER_NAME = 'Dr. Lee';
+  const USER_NAME = 'Senhor Shush';
   const REFRESH_MS = 10 * 60 * 1000; // refresh live data every 10 minutes
 
   const FORECAST_URL = 'https://api.open-meteo.com/v1/forecast';
